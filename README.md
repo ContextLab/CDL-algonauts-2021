@@ -7,11 +7,11 @@ This repository contains the [Contextual Dynamics Lab](http://www.context-lab.co
 1. Read about the Algonauts 2021 challenge [here](http://algonauts.csail.mit.edu/challenge.html)
 2. Follow the setup instructions [here](https://github.com/Neural-Dynamics-of-Visual-Cognition-FUB/Algonauts2021_devkit) to install the Algonauts Developer's Kit on your computer and download the data.  (*TODO: let's make a Docker container to do this part automatically*)
 3. Fork this repository and clone the fork to your computer
-4. Add yourself to the "Team CDL contributors" list below.  By adding yourself to the team, you agree to:
-  - Maintain clear, open, and regular communications with your fellow team members related to work on this challenge project.  This includes joining the associated [slack channel](https://context-lab.slack.com/archives/C020V4HJFT4) and checking/contributing to it regularly while the project is active.
-  - Participate in the hackathons related to the project
-  - Take responsibility for the methods, code, and results
-  - Assist in writing up and submitting our results
+4. Add yourself to the "Team CDL contributors" list below (you'll need to add yourself to your fork and then submit a pull request).  By adding yourself to the team, you agree to:
+    - Maintain clear, open, and regular communications with your fellow team members related to work on this challenge project.  This includes joining the associated [slack channel](https://context-lab.slack.com/archives/C020V4HJFT4) and checking/contributing to it regularly while the project is active.
+    - Participate in the hackathons related to the project
+    - Take responsibility for the methods, code, and results
+    - Assist in writing up and submitting our results
 
 ## Team CDL contributors
 
