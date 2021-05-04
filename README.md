@@ -23,7 +23,7 @@ Team members:
 
 | Name                   | Join date   | GitHub username | Email address        |
 -------------------------|-------------|-----------------|----------------------|
-| Jeremy R. Manning      | May 4, 2021 | jeremymanning   | jeremy@dartmouth.edu |
+| Jeremy R. Manning      | May 4, 2021 | [jeremymanning](https://github.com/jeremymanning) | jeremy@dartmouth.edu |
 
 # Approach
 
