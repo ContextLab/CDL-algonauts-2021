@@ -2,6 +2,16 @@
 
 This repository contains the [Contextual Dynamics Lab](http://www.context-lab.com)'s code related to the [CCN Algonauts 2021 challenge](http://algonauts.csail.mit.edu/challenge.html).
 
+## Important dates:
+
+| Description          | Date |
+-----------------------|------|
+| Training data, test data, and development kit released | May 1, 2021 |
+| Challenge submission deadline | August 14, 2021 at 11:59PM (UTC-4) |
+| Challenge report submission deadline | August 22, 2021 |
+| Challenge results released | August 23, 2021 |
+| Virtual session as [CCN 2021](https://2021.ccneuro.org/) | September 7, 2021 |
+
 ## Setup instructions
 
 1. Read about the Algonauts 2021 challenge [here](http://algonauts.csail.mit.edu/challenge.html)
@@ -19,7 +29,7 @@ Note: the tabulated list of team members below is ordered by join date; author o
 - Code and writing (using GitHub to track commits)
 - Ideas (documented on Slack and/or GitHub)
 
-Team members:
+### Team members:
 
 | Name                   | Join date   | GitHub username | Email address        |
 -------------------------|-------------|-----------------|----------------------|
@@ -27,7 +37,11 @@ Team members:
 
 # Approach
 
-(insert description here)
+Some scattered thoughts (expand and refine later...)
+- hyperalignment-based decoding, similar to what we used [here](https://arxiv.org/abs/1701.08290)
+- some sort of deep learning-based thing-- GAN?  Autoencoder + hyperalignment?  Custom model?
+- use TFA and/or timecorr features?
+- connect with other datasets (e.g. Huth et al. semantic decoding, neurosynth, etc.)?
 
 # Results
 
